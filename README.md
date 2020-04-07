@@ -1,4 +1,4 @@
-# EcoApps_Random_Effects
+# READ-ME / OVERVIEW
 
 The data and code provided here accompay the paper "Ensuring identifiability in hierarchical mixed effects Bayesian models" 
 by Kiona Ogle and Jarrett Barber, published in Ecological Appilcations. The following R files are provided:
