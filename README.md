@@ -8,3 +8,5 @@ by Kiona Ogle and Jarrett Barber, published in Ecological Appilcations. The foll
 3) "Code A3.R" -- R script code for implementing Solutions 1 (hierarchical centering, HC), 2 (sum-to-zero, SZ), and 4 (post-sweeping, PS) with the random effect regression summarized in Equation 5 in the manuscript.
 4) "Code A4.R" -- R script code for implementing Solutions 1 (HC), 2 (SZ), and 4 (PS) with the nested random effects regression summarized in Equation 11 in the manuscript.
 5) "Code A5.R" -- R script code for implementing Solutions 2 (SZ) and 4 (PS) with the Bayesian regression involving crossed random effects, as summarized in Equation 14 in the manuscript.
+6) "stanwork.V2.R" -- R script for running the models in Stan.
+7) "S2.v2.stan" -- Stan code for the models.
