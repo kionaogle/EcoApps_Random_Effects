@@ -11,3 +11,5 @@ by Kiona Ogle and Jarrett Barber, published in Ecological Appilcations. The foll
 5) **Code A5.R** -- R script code for implementing Solutions 2 (SZ) and 4 (PS) with the Bayesian regression involving crossed random effects, as summarized in Equation 14 in the manuscript (see also, Section S5 in **EcoApps supplemental materials.pdf**)..
 6) **stanwork.V2.R** -- R script for running the models in Stan (see also, Section S6 in **EcoApps supplemental materials.pdf**).
 7) **S2.v2.stan** -- Stan code for the models (see also, Section S6 in **EcoApps supplemental materials.pdf**).
+
+Please also see the **License** file for "instructions" on how the materials/files posted here can be reused.
